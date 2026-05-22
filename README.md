@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Huzaifa Mumtaz</h1>
 
-<h3 align="left">Full Stack Developer | Automation Enthusiast | Unreal Engine Learner</h3>
+<h3 align="left">Full Stack Developer | Automation Enthusiast </h3>
 
 ---
 
 - 💻 Building responsive and modern web applications  
 - ⚡ Passionate about Automation & Workflow Systems  
 - 🚀 Skilled in Laravel, React, PHP, JavaScript & n8n  
-- 🎮 Exploring Unreal Engine 5 & Blueprint Visual Scripting  
 - 🌱 Currently learning advanced Full Stack Development  
 - 🌐 Portfolio: https://huzaifamumtaz.vercel.app/
 
