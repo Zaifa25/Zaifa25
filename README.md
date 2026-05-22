@@ -1,69 +1,56 @@
-# Hi, I'm Huzaifa Mumtaz 👋
+<h1 align="left">Hi 👋, I'm Huzaifa Mumtaz</h1>
 
-🎓 Computer Science Student
-💻 Full Stack Developer & Automation Enthusiast
-🚀 Building scalable web applications and workflow automations
-🎮 Exploring Game Development with Unreal Engine 5
-🌐 Portfolio: [https://huzaifamumtaz.vercel.app/](https://huzaifamumtaz.vercel.app/)
+<h3 align="left">Full Stack Developer | Automation Enthusiast | Unreal Engine Learner</h3>
 
 ---
 
-# 🚀 About Me
-
-I am a passionate developer focused on creating modern web applications, automation workflows, and interactive digital experiences. I enjoy solving real-world problems using technology and continuously learning new tools and frameworks.
-
-* 🌱 Currently learning Full Stack Development
-* ⚡ Interested in Automation Workflows & AI Integrations
-* 🛠 Building projects using Laravel, React, PHP, and Google APIs
-* 🎮 Game Development Enthusiast using Unreal Engine 5
-* 📚 Always learning new technologies and improving skills
+- 💻 Building responsive and modern web applications  
+- ⚡ Passionate about Automation & Workflow Systems  
+- 🚀 Skilled in Laravel, React, PHP, JavaScript & n8n  
+- 🎮 Exploring Unreal Engine 5 & Blueprint Visual Scripting  
+- 🌱 Currently learning advanced Full Stack Development  
+- 🌐 Portfolio: https://huzaifamumtaz.vercel.app/
 
 ---
 
-# 💻 Tech Stack
+<h2 align="left">🚀 Languages and Tools I Use</h2>
 
-## Development
+<p align="left">
 
-* HTML5
-* CSS3
-* JavaScript
-* Bootstrap
-* React
-* PHP
-* Laravel
-* Flutter
-* Firebase
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=php" height="50"/>
+<img src="https://skillicons.dev/icons?i=laravel" height="50"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+<img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="50"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img src="https://skillicons.dev/icons?i=aws" height="50"/>
 
-## Automation
-
-* n8n Automation
-* REST APIs
-* Webhooks
-* Google APIs
-
-## Game Development
-
-* Unreal Engine 5
-* Blueprint Visual Scripting
-
-## Tools
-
-* Git
-* GitHub
-* Docker
-* AWS Basics
+</p>
 
 ---
 
-# 🌐 Connect With Me
+<h2 align="left">⚡ Automation & Development</h2>
 
-* 🌐 Portfolio: [https://huzaifamumtaz.vercel.app/](https://huzaifamumtaz.vercel.app/)
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/Zaifa25)
-* LinkedIn: www.linkedin.com/in/huzaifa-mumtaz-99b985343
-* Email: huzaifamumtaz.work@gmail.com
+```yaml
+Automation:
+  - n8n
+  - REST APIs
+  - Webhooks
+  - Google APIs
 
----
-
-# ⚡ Fun Fact
-
-I enjoy building automation workflows, creating modern web experiences, and experimenting with game development using Unreal Engine 5.
+Development:
+  - Laravel
+  - React
+  - PHP
+  - JavaScript
+  - Bootstrap
+  - Firebase
