@@ -34,22 +34,3 @@
 <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 
 </p>
-
----
-
-<h2 align="left">⚡ Automation & Development</h2>
-
-```yaml
-Automation:
-  - n8n
-  - REST APIs
-  - Webhooks
-  - Google APIs
-
-Development:
-  - Laravel
-  - React
-  - PHP
-  - JavaScript
-  - Bootstrap
-  - Firebase
