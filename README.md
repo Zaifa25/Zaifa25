@@ -1,18 +1,18 @@
 <h1 align="left">Hi 👋, I'm Huzaifa Mumtaz</h1>
 
-<h3 align="left">Full Stack Developer | Automation Enthusiast </h3>
+<h3 align="left">Full Stack Developer | Automation Enthusiast</h3>
 
 ---
 
-- 💻 Building responsive and modern web applications  
-- ⚡ Passionate about Automation & Workflow Systems  
-- 🚀 Skilled in Laravel, React, PHP, JavaScript & n8n  
-- 🌱 Currently learning Mern Stack Development  
-- 🌐 Portfolio: https://huzaifamumtaz.vercel.app/
+- 💻 Building responsive and modern web applications
+- ⚡ Passionate about automation and workflow systems
+- 🚀 Skilled in Laravel, React, PHP, JavaScript, and n8n
+- 🌱 Currently learning MERN Stack Development
+- 🌐 Portfolio: <a href="https://huzaifamumtaz.vercel.app/">huzaifamumtaz.vercel.app</a>
 
 ---
 
-<h2 align="left">🚀 Languages and Tools I Use</h2>
+<h2 align="left">🚀 Languages and Tools</h2>
 
 <p align="left">
 
