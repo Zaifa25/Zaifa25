@@ -7,7 +7,7 @@
 - 💻 Building responsive and modern web applications  
 - ⚡ Passionate about Automation & Workflow Systems  
 - 🚀 Skilled in Laravel, React, PHP, JavaScript & n8n  
-- 🌱 Currently learning advanced Full Stack Development  
+- 🌱 Currently learning Mern Stack Development  
 - 🌐 Portfolio: https://huzaifamumtaz.vercel.app/
 
 ---
