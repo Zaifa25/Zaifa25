@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm  Huzaifa Mumtaz</h1>
+<h1 align="left">Hi 👋, I'm  Muhammad Huzaifa Mumtaz</h1>
 
 <h3 align="left">Full Stack Developer | Automation Enthusiast</h3>
 
