@@ -6,7 +6,7 @@
 
 - 💻 Building responsive and modern web applications
 - ⚡ Passionate about automation and workflow systems
-- 🚀 Skilled in Laravel, React, Next.js, PHP, JavaScript, PostgreSQL, and n8n
+- 🚀 Skilled in React, Next.js, JavaScript, PostgreSQL, and n8n
 - 🌱 Currently learning MERN Stack Development
 - 🌐 Portfolio: <a href="https://huzaifamumtaz.vercel.app/">huzaifamumtaz.vercel.app</a>
 
