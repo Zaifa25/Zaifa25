@@ -8,7 +8,7 @@
 - ⚡ Passionate about automation and workflow systems
 - 🚀 Skilled in React, Next.js, JavaScript, PostgreSQL, and n8n
 - 🌱 Currently learning MERN Stack Development
-- 🌐 Portfolio: <a href="https://huzaifamumtaz.vercel.app/">huzaifamumtaz.vercel.app</a>
+- 🌐 Portfolio: <a href="https://www.huzaifamumtaz.online/">huzaifamumtaz.vercel.app</a>
 
 ---
 
